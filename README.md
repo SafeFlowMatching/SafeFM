@@ -1,4 +1,4 @@
-# SafeFlow: Safe Robot Motion Planning with Flow Matching via Control Barrier Functions
+# Safe Flow Matching: Robot Motion Planning with Control Barrier Functions
 
 Coming soon...
 
